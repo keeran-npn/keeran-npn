@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kiran
 #### I am a student
 
-I enjoy learning languages and IT in general. You can check out my linkedin profile at [kiran-npn](https://www.linkedin.com/in/kiran-npn/).
+I enjoy learning languages and IT in general.
 
 ## Skills
 * HTML, CSS, JS
